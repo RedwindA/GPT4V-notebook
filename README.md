@@ -10,7 +10,7 @@ This project provides a simple chat interface that allows users to interact with
 - Upload images to be included in the conversation.
 - Adjust the AI's response creativity with a temperature slider.
 - Clear the conversation history.
-- Download the conversation history in Markdown format.
+- Download the conversation history in HTML format.
 - Save and use an OpenAI API key for authentication.
 
 ## Requirements
