@@ -2,7 +2,7 @@
 chat with gpt-4-vision-preview in the notebook
 
 
-This project provides a simple chat interface that allows users to interact with OpenAI's GPT-4 Vision model. It includes functionality to send messages, upload images, and receive responses from the AI. The conversation can be cleared or downloaded as a Markdown file.
+This project provides a simple chat interface that allows users to interact with OpenAI's GPT-4 Vision model. It includes functionality to send messages, upload images, and receive responses from the AI. The conversation can be cleared or downloaded as a HTML file.
 
 ## Features
 
