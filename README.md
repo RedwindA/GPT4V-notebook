@@ -46,7 +46,7 @@ To run this project, you will need:
 
 - The `send_message` function handles the sending of messages and images, as well as the reception of AI responses.
 - The `clear_conversation` function resets the conversation history.
-- The `download_conversation` function allows you to download the conversation history as a Markdown file.
+- The `download_conversation` function allows you to download the conversation history as a HTML file.
 - The `save_api_key` function saves the API key entered by the user for subsequent requests.
 
 ## Disclaimer
